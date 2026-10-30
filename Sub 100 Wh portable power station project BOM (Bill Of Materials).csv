@@ -1,0 +1,78 @@
+Part name,Category,Quantity,Local cost(₹) per piece,Converted cost ($) per piece,Total cost (₹),Total cost ($),Cumulative cost (₹),Cumulative cost ($),Link
+"21700 Lithium Ion cell 3.7 V, 4.5 Ah, 3C",Power,6,210,2.2,1260,13.2,1260,13.2,https://quartzcomponents.com/collections/all/products/dmegc-inr-21700-li-ion-4500mah-3-7v-4500mah-rechargable-battery-original
+3S 40 A BMS,Power,1,200,2.1,200,2.1,1460,15.3,https://quartzcomponents.com/collections/all/products/3s-40a-li-ion-battery-protection-board
+4sq.mm wires red and black,Power,2 metres,90,1,180,2,1640,17.3,https://www.amazon.in/Single-Copper-Black-Insulated-Meter/dp/B0HD7B73J1?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A15OBVH3GZ5O5B
+XT60 connectors,Power,4,50,0.5,200,2,1840,19.3,https://quartzcomponents.com/collections/all/products/xt60
+T Deans connectors,Power,3,50,0.5,100,1,1940,20.3,https://www.amazon.in/UG-LAND-INDIA-Fireproof-Connector/dp/B07VDYHZX5/ref=sr_1_12?s=industrial&sr=1-12
+XT30 connector,Power,1,60,0.6,60,0.6,2000,20.9,https://quartzcomponents.com/collections/all/products/xt-30-male-and-female-connector-black-1-pair
+2.5sq.mm wires red and black,Power,2 metres,50,0.5,100,1,2100,21.9,https://quartzcomponents.com/products/single-core-1-sqmm-black-electrical-cable-wire-for-domestic-and-industries-90m-pvc-fr-insulated-cable-copy?variant=44955135607018&country=IN&currency=INR
+1sq.mm wires red and black,Power,2 metres,20,0.2,40,0.4,2140,22.3,https://quartzcomponents.com/products/pvc-cable-1-sq-mm-multi-strand-wire-1-meter-black
+Perf board,Circuit,2,50,0.5,100,1,2240,23.3,https://www.amazon.in/General-Purpose-Printed-electronic-experiment/dp/B07KXVY499/ref=sr_1_19?s=industrial&sr=1-19
+Relay (10 A),Switching,4,30,0.3,120,1.2,2360,24.5,https://www.amazon.in/Embeddinator-Mount-Sugar-Cube-Relay/dp/B0B5GHWQXF/ref=sr_1_9?s=industrial&sr=1-9
+Relay (20 A),Switching,1,50,0.5,50,0.5,2410,25,https://www.amazon.in/Vicon-VG90-S-112N-C-Power-Relay-Heavy/dp/B0H6FVBQ9H/ref=sr_1_6?s=industrial&sr=1-6
+Arduino Nano,Circuit,1,300,3.1,300,4.1,2710,29.1,https://www.amazon.in/Arduino-Nano-Soldered-CHINA-MAKE/dp/B0D6Y9FKC8/ref=sr_1_4?s=industrial&sr=1-4
+SSD1306 (OLED Display),Circuit,1,240,2.5,240,2.5,2950,31.6,https://www.amazon.in/Tishvi-Interface-Brightness-Microcontroller-Projects/dp/B0GZ4HKDNN/ref=sr_1_6?s=industrial&sr=1-6
+ADS1115 (16 bit ADC),Circuit,1,200,2,200,2,3150,33.6,https://www.amazon.in/ROBODUINO-High-Precision-Programmable-Acquisition-Applications/dp/B0H7CYX6FR/ref=sr_1_2?s=industrial&sr=1-2
+Voltage measurement module,Circuit,2,50,0.5,100,1,3250,34.6,https://www.amazon.in/Robodo-Electronics-VOLTSENS-Voltage-Detection/dp/B07B91C3RK/ref=sr_1_3?s=industrial&sr=1-3
+ACS712 (30 A),Circuit,1,160,1.7,160,1.7,3410,36.3,https://www.amazon.in/Generic-ACS712-Current-Sensor-Module/dp/B00NU8XD80/ref=sr_1_3_mod_primary_new?s=industrial&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-3
+F9540N P Channel,Circuit,1,40,0.4,40,0.4,3450,36.7,https://www.amazon.in/ALLECIN-IRF9540-Transistors-IRF9540NPBF-Transistor/dp/B0CBKJD2L9/ref=sr_1_1?sr=8-1
+IRF540N N Channel,Circuit,1,30,0.3,30,0.3,3480,37,https://www.amazon.in/JIVITH-IRF540N-N-Channel-Transistor-Through-Hole/dp/B0HGM3BDX4/ref=sr_1_1?sr=8-1
+Screw terminals 2 pole Big,Circuit,2,20,0.2,40,0.4,3520,37.4,https://www.amazon.in/AVS-COMPONENTS-Terminal-Block-Connector/dp/B08KXMQ85D/ref=sr_1_10?sr=8-10
+Screw terminals 2 pole Small,Circuit,2,10,0.1,20,0.2,3540,37.6,https://www.amazon.in/Embeddinator-5-08mm-Pitch-Pluggable-Terminal/dp/B0B5GH2Z8V/ref=sr_1_14?sr=8-14
+BC547 BJT,Circuit,8,2,0.02,16,0.16,3556,37.76,https://www.amazon.in/547-General-Purpose-Transistor-pack/dp/B07LCNSJCJ/ref=sr_1_1?sr=8-1
+MP1584,Circuit,1,120,1.2,120,1.2,3676,38.96,https://www.amazon.in/xcluma-Adjustable-Converter-Voltage-Regulator/dp/B08CXYY1WW/ref=sr_1_2?sr=8-2
+1N4007 Diode,Circuit,15,1,0.01,15,0.15,3691,39.11,https://www.amazon.in/Electronic-Spices-Inverse-Voltage-Rectifier/dp/B0BGX995MB/ref=sr_1_1?sr=8-1
+1/4 W 10k ohm resistor,Circuit,8,1,0.01,8,0.08,3699,39.19,https://www.amazon.in/Resistor-Tolerance-Resistors-Electronics-Projects/dp/B0HN296VG2/ref=sr_1_5?sr=8-5
+1/4 W 1k ohm resistor,Circuit,8,1,0.01,8,0.08,3707,39.27,https://www.amazon.in/25-Pieces-Carbon-Film-RESISTORS-Tolerance/dp/B0HMFJG742/ref=sr_1_4?sr=8-4
+1/4 W 220 ohm resistor,Circuit,1,1,0.01,1,0.01,3708,39.28,https://www.amazon.in/Tolerance-Electronic-Component-Breadboard-Compatible/dp/B0C9TWMPXW/ref=sr_1_3_sspa?sr=8-3-spons&aref=NRGxp35Oi1&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+1/4 W 330 ohm resistor,Circuit,3,1,0.01,3,0.03,3711,39.31,https://www.amazon.in/Resistor-Tolerance-Resistors-Electronics-Projects/dp/B0HN2DKG8R/ref=sr_1_5?sr=8-5
+"Capacitors (1000, 100 and 10 microfarads",Circuit,5,15,0.15,75,0.8,3786,40.11,https://www.amazon.in/Luyizi-Electrolytic-Assortment-0-1uF-1000uF-Electronics/dp/B0GM67SFMG/ref=sr_1_5?sr=8-5
+Headers - Male,Circuit,5,5,0.05,25,0.25,3811,40.36,https://www.amazon.in/Electrobot-2-54MM-Male-Header-Strip/dp/B07NRV7WQY/ref=sr_1_3?sr=8-3
+Headers - Female,Circuit,5,10,0.1,50,0.5,3861,40.86,https://www.amazon.in/Electrobot-Female-Header-Berg-Strip/dp/B07NRXBMDC/ref=sr_1_3?sr=8-3
+JST connector 6 pin,Circuit,1,10,0.1,10,0.1,3871,40.96,https://www.amazon.in/Electronic-Spices-Connector-2-5mm-Female/dp/B0BKWGDW4M/ref=sr_1_1?sr=8-1
+JST connector 4 pin,Circuit,1,10,0.1,10,0.1,3881,41.06,https://www.amazon.in/Electronic-Spices-Connector-2-5mm-Female/dp/B0BKWGK8YS/ref=sr_1_4?sr=8-4
+JST connector 2 pin,Circuit,1,10,0.1,10,0.1,3891,41.16,https://www.amazon.in/Villcron-JST-PH-2-0mm-Connector-Silicone/dp/B0GPQNFWWV/ref=sr_1_1_sspa?sr=8-1-spons&aref=eMNWG3S3Iu&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+150 W Boost converter,Chargers,1,280,2.9,280,2.9,4171,44.06,https://www.amazon.in/DHRUVPRO-Converter-12-35V-Step-Up-Adjustable/dp/B0CFLXL3ZS/ref=sr_1_1?sr=8-1
+65 W PD charger,Chargers,2,220,2.3,440,4.6,4611,48.66,https://www.amazon.in/UG-LAND-INDIA-Charging-Adjustable/dp/B0H8W5R2QL/ref=sr_1_1?sr=8-1
+24 W fast charger,Chargers,2,120,1.2,240,2.4,4851,51.06,https://www.amazon.in/UG-LAND-INDIA-Converter-Charging/dp/B0DBBBV4B8/ref=sr_1_1?sr=8-1
+XL4016,Battery charger,1,420,4.4,420,4.2,5271,55.26,https://www.amazon.in/INFINITY-XL4016-Converter-1-2-35V-Function/dp/B0CSK7L7PS/ref=sr_1_2?sr=8-2
+USB decoy module,Battery charger,1,200,2,200,2,5471,57.26,https://www.amazon.in/EZPHYSIKX-Automotive-Electronics-Compatible-Voltage-DC/dp/B0GG528T3D/ref=sr_1_1?sr=8-1
+3S Battery charger module,Battery charger,1,130,1.4,130,1.4,5601,58.66,https://www.amazon.in/Step-Up-Charger-Overvoltage-Protection-Converter/dp/B0FDR8MCNZ/ref=sr_1_1?sr=8-1
+Xl4015,PSU,1,200,2,200,2,5801,60.66,https://www.amazon.in/Robocraze-Lithium-Battery-Charging-Converter/dp/B07RKH7YVY/ref=sr_1_3?sr=8-3
+Volt ammeter ,PSU,1,240,2.5,240,2.5,6041,63.16,https://www.amazon.in/SP-Electron-Voltmeter-Multimeter-Detector/dp/B0H4CTS8KH/ref=sr_1_6?sr=8-6
+LM7812 (12 V regulator),PSU,1,10,0.1,10,0.1,6051,63.26,https://www.amazon.in/7812-volt-regulator-L7812CV-220/dp/B07MTKRRP5/ref=sr_1_1?sr=8-1
+Bourns 3590S 10k (multiturn potentiometer),PSU,2,150,1.6,300,3.2,6351,66.46,https://www.amazon.in/BOURNS-3590S-1-103L-Rotary-Potentiometer-Wirewound/dp/B07T29B1T3/ref=sr_1_1?sr=8-1
+Push button (latching),PSU,1,10,0.1,10,0.1,6361,66.56,https://www.amazon.in/Electronic-Spices-Self-lock-Latching-Button/dp/B0B9JY7TMD/ref=sr_1_18?sr=8-18
+Push button (momentary) big,Circuit,3,5,0.05,15,0.15,6376,66.71,https://www.amazon.in/switch-11x11x4-3MM-Tactile-Button-Self-Reset/dp/B07MDH66DN/ref=sr_1_8?sr=8-8
+Push button (momentary) small,Circuit,1,3,0.03,3,0.03,6379,66.74,https://www.amazon.in/Tactile-momentry-button-Switch-Button/dp/B07NCZJX3M/ref=sr_1_7?sr=8-7
+RGB LEDs (common anode),Circuit,2,10,0.1,20,0.2,6399,66.94,https://www.amazon.in/Electrobot-Tricolor-Multicolor-Electronics-Components/dp/B07PN98D85/ref=sr_1_1?sr=8-1
+Inverter (FS-500A),Power,1,2000,21,2000,21,8399,87.94,https://www.dhruvpro.com/products/fs-500a-sunchonglic-12v-dc-to-220v-ac-500va-rated-power-300watt-peak-power-500watt-off-grid-power-inverter-modified-sine-wave-solar-power-inverters
+Push button caps,Circuit,3,5,0.05,15,0.15,8414,88.09,https://www.amazon.in/SHOKITECH-Tactile-Button-Switch-Multicolour/dp/B0DCP7J7R7/ref=sr_1_9?sr=8-9
+Potentiometer caps,PSU,2,50,0.5,100,1,8514,89.09,https://www.amazon.in/Potentiometer-perfect-protecting-enhancing-control/dp/B0DWLRHSR5/ref=sr_1_48?sr=8-48
+PLA pro plus filament (Black),Hardware,1,800,8.3,800,8.3,9314,97.39,https://www.amazon.in/PLA-3D-Flexibility-Eco-Friendly-Compatible/dp/B071D82LDV/ref=sr_1_6?sr=8-6
+PLA pro plus filament (Orange),Hardware,1,800,8.3,800,8.3,10114,105.69,https://www.amazon.in/WOL3D-2025-3D-Printing-Filament/dp/B0F1MW6JPT/ref=sr_1_1_sspa?sr=8-1-spons&aref=7DQmKJhHGf&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+PLA pro plus filemant (Gray),Hardware,1,900,9.4,900,9.4,11014,115.09,https://www.amazon.in/WOL3D-2025-3D-Printing-Filament/dp/B0F1MT1SKN/ref=sr_1_6?sr=8-6
+PLA pro plus filament (White),Hardware,1,900,9.4,900,9.4,11914,124.49,https://www.amazon.in/3D-Galaxy-Printer-Filament-Rigidity/dp/B0BXBH7R42/ref=sr_1_13_sspa?sr=8-13-spons&aref=FD1HMYCAtE&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1
+M3 bolts and nuts (10 mm),Hardware,1 packet,50,0.5,50,0.5,11964,124.99,https://www.amazon.in/Stainless-Steel-Phillip-Bolt-10mm/dp/B07ZM8P7GD/ref=sr_1_6?sr=8-6
+M3 bolts and nuts (15 mm),Hardware,1 packet,60,0.6,60,0.6,12024,125.59,https://www.amazon.in/Rpi-shop-Phillips-Countersunk-Quantity/dp/B08HN7YVRN/ref=sr_1_16?sr=8-16
+M4 bolts and nuts (10 mm),Hardware,1 packet,70,0.7,70,0.7,12094,126.29,https://www.amazon.in/Rpi-shop-Phillip-Phillips-Quantity/dp/B08FG7K6DT/ref=sr_1_6?sr=8-6
+24 V PC fan,Circuit,1,120,1.3,120,1.3,12214,127.59,https://www.amazon.in/Fourdot%C2%AE-Cabinet-Cooling-Model-9225-Connector/dp/B0BTBVBDSG/ref=sr_1_1?sr=8-1
+MT3608 boost converter,Circuit,1,80,0.8,80,0.8,12294,128.39,https://www.amazon.in/Adjustable-converter-Regulator-Transformer-Controller/dp/B08LTLV74H/ref=sr_1_1?sr=8-1
+Heat shrink tube (3 mm),Hardware,1 metre,30,0.3,30,0.3,12324,128.69,https://www.amazon.in/Rpi-shop-Polyolefin-Insulated-Multicolour/dp/B08S3TP2Q6/ref=sr_1_6?sr=8-6
+Heat shrink tube (4 mm),Hardware,1 metre,30,0.3,30,0.3,12354,128.99,https://www.amazon.in/Rpi-shop-Polyolefin-Insulated-Multicolour/dp/B08S3TP2Q6/ref=sr_1_6?sr=8-6
+Heat shrink tube (6 mm),Hardware,1 metre,40,0.4,40,0.4,12394,129.39,https://www.amazon.in/Rpi-shop-Polyolefin-Insulated-Multicolour/dp/B08S3TP2Q6/ref=sr_1_6?sr=8-6
+Ribbon wires (small),Circuit,2 metres,20,0.2,40,0.4,12434,129.79,https://www.amazon.in/Rainbow-durable-Soldering-electronic-projects/dp/B0FDGZRH1K/ref=sr_1_3?sr=8-3
+Ribbon wires (large),Circuit,1 metre,40,0.4,40,0.4,12474,130.19,https://www.amazon.in/Meter-Rainbow-Ribbon-electronic-projects/dp/B0FW5MLJ8W/ref=sr_1_7?sr=8-7
+Copper sheet (0.7 mm),Hardware,20g,2,0.02,40,0.4,12514,130.59,https://www.amazon.in/ART-IFACT-Pieces-Copper-Sheets/dp/B09L7ZV29M/ref=sr_1_6?sr=8-6
+7 W COB LED,Lamp,1,20,0.2,20,0.2,12534,130.79,https://www.amazon.in/TECHDELIVERS%C2%AE-Light-Circuit-Board-Power/dp/B0BMQBPFD6/ref=sr_1_2?sr=8-2
+Heatsink,Lamp,1,30,0.3,30,0.3,12564,131.09,https://www.amazon.in/Electronic-Spices-84-5mm-Aluminum-Heatsink/dp/B0CZDXDK1T/ref=sr_1_4?sr=8-4
+Thermal paste,Lamp,1 tube,175,1.8,175,1.8,12739,132.89,https://www.amazon.in/Atevon-HY510-Thermal-Compound-Paste/dp/B0FDKPTFF3/ref=sr_1_4?sr=8-4
+ NTC thermistor (10 K ohm),Circuit,3,8,0.08,24,0.24,12763,133.13,https://www.amazon.in/TECHDELIVERS%C2%AE-10K-thermistor-temperature-sensor/dp/B092NTCF38/ref=sr_1_1?sr=8-1
+"Solenoid (12 V, 6 N)",Haptic block,1,470,4.9,470,4.9,13233,138.03,https://www.amazon.in/KaarBuddy-JF-0630B-Solenoid-Electromagnet-Automation/dp/B0HJ885D9R/ref=sr_1_3?sr=8-3
+IRFZ44N (N channel MOSFET),Circuit & Haptic,2,30,0.3,60,0.6,13293,138.63,https://www.amazon.in/Irfz44n-220-N-Channel-Transistor-Mosfet/dp/B07LCQ74GJ/ref=sr_1_1?sr=8-1
+Hacksaw,Hardware,1,40,0.4,40,0.4,13333,139.03,https://www.amazon.in/Inditrust-Steel-Junior-Hacksaw-Blades/dp/B09C741ZBV/ref=sr_1_6?sr=8-6
+File,Hardware,1,120,1.3,120,1.3,13453,140.33,https://www.amazon.in/HASTHIP-180mm-Alloy-Steel-Metal/dp/B0C1FKFYYB/ref=sr_1_3_sspa?sr=8-3-spons&aref=KXoZbT72Cb&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+LM2596,Chargers,1,70,0.7,70,0.7,13523,141.03,https://www.amazon.in/Electronicspices-LM2596-voltage-regulator-1-3-37V/dp/B08P7KT92B/ref=sr_1_1?sr=8-1
+Qi wireless charger pad,Chargers,1,300,3.1,300,3.1,13823,144.13,https://store.electrobot.co.in/product/naw15
+DC barrel jack,Direct sources,1,40,0.4,40,0.4,13863,144.53,https://www.amazon.in/Universal-Connector-Terminal-Solderless-High-Power/dp/B0GSN7QRJ5/ref=sr_1_15?sr=8-15
+5 mm White LED,PSU,1,3,0.03,3,0.03,13866,144.56,https://www.amazon.in/UNIVERSAL-HUB-White-Light-Emitting/dp/B0B9X8W674/ref=sr_1_6?sr=8-6
