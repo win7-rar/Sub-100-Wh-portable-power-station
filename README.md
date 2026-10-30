@@ -1,6 +1,8 @@
 <img width="4080" height="3060" alt="20261030_233057" src="https://github.com/user-attachments/assets/d88abf4b-3f7a-429c-9f88-7d8c0134375d" />
 # Sub-100-Wh-portable-power-station
 
+Demo video: https://www.youtube.com/watch?v=rUNFh36D0Y8
+
 I had made a portable power station that is of 99.9 Wh and packs a ton of necessary as well as unnecessary features
 
 Features:
